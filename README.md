@@ -1,3 +1,5 @@
+Simple Speech recognition using Linear Predictive Coding(LPC)
+
 s1: scenario 1
 s2: scenario 2
 s3: scenario 3
